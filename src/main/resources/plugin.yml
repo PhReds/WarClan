@@ -1,0 +1,4 @@
+name: WarClan
+version: '${project.version}'
+main: me.phredss.warclan.WarClan
+api-version: 1.20
